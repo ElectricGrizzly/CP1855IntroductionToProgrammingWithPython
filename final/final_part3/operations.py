@@ -1,4 +1,4 @@
-"""Module of operations team manager program."""
+"""Operations team manager program."""
 
 from cli import display_lineup_header, display_player, display_player_position, display_player_stats, display_farewell, display_player_updated
 from inputs import get_lineup_number, get_string, get_position, get_int

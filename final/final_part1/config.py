@@ -1,4 +1,4 @@
-"""Module of configuration settings for baseball team manager program."""
+"""Configuration settings for baseball team manager program."""
 
 # The starting players list of lists
 players = [

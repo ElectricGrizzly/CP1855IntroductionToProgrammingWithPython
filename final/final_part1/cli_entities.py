@@ -1,4 +1,4 @@
-"""Module of constant entities for use by CLI."""
+"""Constant entities for use by CLI."""
 
 from config import valid_positions
 

@@ -1,4 +1,4 @@
-"""Module for retrieving user input for baseball team manager program."""
+"""User input for baseball team manager program."""
 
 from cli_entities import MENU_OPTIONS, POSITIONS
 

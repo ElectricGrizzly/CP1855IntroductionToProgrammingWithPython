@@ -1,4 +1,4 @@
-"""Module for CLI functions for baseball team manager program."""
+"""CLI functions for baseball team manager program."""
 
 from cli_entities import (
     FAREWELL, LINEUP_AT_BATS_LENGTH, LINEUP_AT_BATS_TITLE, LINEUP_AVERAGE_LENGTH, LINEUP_AVERAGE_TITLE, LINEUP_DIVIDER, 

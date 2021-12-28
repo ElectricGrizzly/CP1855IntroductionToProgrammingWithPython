@@ -4,7 +4,7 @@ from game import make_move, is_win, change_player
 from text import display_grid, display_player_turn, display_winner, display_farewell, display_tie
 from config import GRID, PLAYERS, VERTICE, VERTICAL_BORDER, HORIZONTAL_BORDER, MOVES
 
-def main():
+def main() -> None:
     """Perform a players' move if able and check for a win."""
     players: list[str] = PLAYERS
     player: str = players[0]

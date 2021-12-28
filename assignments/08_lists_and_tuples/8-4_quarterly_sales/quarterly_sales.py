@@ -4,7 +4,7 @@ from sales import list_sum, list_average
 from text import display_title, display_total, display_average, display_lowest, display_highest, sales_prompt
 from config import QUARTERS
 
-def main():
+def main() -> None:
     """Display the total, average, lowest, and highest quarter from given quarterly sales values."""
     quarterly_sales: list[float] = []
     display_title()

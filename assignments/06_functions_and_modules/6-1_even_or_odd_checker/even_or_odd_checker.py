@@ -7,7 +7,7 @@ def main() -> None:
     print(f'This is an {is_even(integer)} number.')
 
 def is_even(value: int) -> str:
-    """Return 'even' if the value is divisible by 2, 'odd' otherwise."""
+    """Return 'even' or 'odd' depending on if the value is divisible by 2."""
     if value % 2 == 0 or value == 0:
         return 'even'
     else:

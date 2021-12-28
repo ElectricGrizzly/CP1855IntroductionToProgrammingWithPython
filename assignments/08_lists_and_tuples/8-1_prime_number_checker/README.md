@@ -1,0 +1,32 @@
+# Project 8-1: Prime Number Checker
+Create a program that checks whether a number is a prime number and displays its factors if it is not a prime number.
+## Console
+```
+Prime Number Checker
+
+Please enter an integer between 1 and 5000: 5
+5 is a prime number.
+
+Try again? (y/n): y
+
+Please enter an integer between 1 and 5000: 6
+6 is NOT prime number.
+It has 4 factors: 1 2 3 6
+
+Try again? (y/n): y
+
+Please enter an integer between 1 and 5000: 200
+200 is NOT prime number.
+It has 12 factors: 1 2 4 5 8 10 20 25 40 50 100 200
+
+Try again? (y/n): n
+
+Bye!
+```
+## Specifications
+- A prime number is divisible by two factors (1 and itself). For example, 7 is a prime number because it is only divisible by 1 and 7.
+- If the user enters an integer that’s not between 1 and 5000, the program should display an error message.
+- If the number is a prime number, the program should display a message.
+- If the number is not a prime number, the program should display a message. Then, it should display the number of factors for the number and a list of those factors.
+- Store the factors for each number in a list.
+- Use functions to organize the code for this program.

@@ -28,5 +28,5 @@ def main() -> None:
     display_table_header()
     display_table_data(start, stop)
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()

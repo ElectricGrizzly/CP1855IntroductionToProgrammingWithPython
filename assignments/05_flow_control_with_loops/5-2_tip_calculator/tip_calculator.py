@@ -16,5 +16,5 @@ def main() -> None:
         print(f'Tip amount:\t{tip_amount}')
         print(f'Total amount:\t{total_amount}')
   
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()

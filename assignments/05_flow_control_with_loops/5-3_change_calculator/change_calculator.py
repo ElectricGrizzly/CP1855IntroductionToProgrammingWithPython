@@ -39,5 +39,5 @@ def main() -> None:
         continue_character: str = input('\nContinue? (y/n): ')
     print('Bye!')
 
-if __name__ == "__main__":
+if __name__ == '__main__':
    main()

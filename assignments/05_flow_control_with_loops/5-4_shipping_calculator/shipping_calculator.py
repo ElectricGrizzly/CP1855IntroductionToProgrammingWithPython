@@ -49,6 +49,6 @@ def main() -> None:
         print(DIVIDER)
     print('Bye!')
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()
     

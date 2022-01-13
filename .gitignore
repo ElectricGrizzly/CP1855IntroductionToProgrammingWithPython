@@ -1,3 +1,7 @@
+# Directories #
+###############
+_pycache_
+
 # Compiled source #
 ###################
 *.com

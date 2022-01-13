@@ -1,4 +1,4 @@
-# CP1855 - Intorduction to Programming with Python
+# CP1855 - Introduction to Programming with Python
 ## School
 College of the North Atlantic (CNA)
 ## Program
